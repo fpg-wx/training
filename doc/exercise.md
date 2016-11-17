@@ -47,3 +47,21 @@
   - 平台使用方式
 - 素材：[点击下载](https://github.com/fpg-wx/training/raw/master/exercrise/sizmek.zip)
 
+## 练习：自动化构建
+
+- 时间：3天
+- 考察点：
+  - nodeJS
+    - npm
+  - gulp
+    - 编译less/sass
+    - 合并js
+    - 压缩html
+    - 压缩css
+    - 压缩js
+    - 压缩图片
+    - 删除文件
+    - 复制文件
+    - 打包文件
+    - 开启临时服务器
+    - 监听文件变动，自动刷新浏览器
