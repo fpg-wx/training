@@ -13,5 +13,6 @@
   - 不同尺寸下动画方式不同
   - 滑动动画
   - 平台使用方式
-- 素材：
+- 素材：[点击下载](https://github.com/fpg-wx/training/raw/master/exercrise/ut.zip)
+
 
