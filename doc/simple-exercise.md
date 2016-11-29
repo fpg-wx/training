@@ -32,4 +32,4 @@
 - 素材说明：
   - images文件夹为需要用到的所有素材
   - 1张图片为最终效果图，1个视频为自适应＋交互效果展示
-- 素材：点击下载
+- 素材：[点击下载](https://github.com/fpg-wx/training/raw/master/assets/simple2.zip)
