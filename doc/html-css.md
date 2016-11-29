@@ -15,7 +15,6 @@
 13. mediaquery
 14. less（语法，引用）
 15. lesshat
-16. pointer-events（先学完js）
-17. 莫名其妙bug的通用解决方式（translate3d、backface-visibility、opacity、rotation）
-18. canvas（so many）
-19. background-size
+16. pointer-events
+17. background-size
+18. canvas
