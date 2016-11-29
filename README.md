@@ -7,3 +7,4 @@
 - [Tween](https://github.com/fpg-wx/training/blob/master/doc/tween.md)
 - [练习项目](https://github.com/fpg-wx/training/blob/master/doc/exercise.md)
 - [简单项目（考察新人用）](https://github.com/fpg-wx/training/blob/master/doc/simple-exercise.md)
+- 开放项目
