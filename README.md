@@ -23,4 +23,3 @@
 ## 扩展
 
 - [Webpack＋React](https://github.com/fpg-wx/training/blob/master/doc/webpack-react.md)
-
