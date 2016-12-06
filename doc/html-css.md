@@ -5,7 +5,7 @@
 3. 如果觉得自己基础不是很扎实，可以先看[http://zh.learnlayout.com/](http://zh.learnlayout.com/)（看1、2、3、4、5、6、7、8、9、13、15、16点就行了，其余可以忽略）
 4. 样式的优先级
 5. 清除默认样式
-6. display属性值（换行br只用在段落文字中）
+6. display属性值（br标签只用在段落文字中）
 7. 显示、隐藏元素的方式
 8. position属性值，（兼顾z-index），抛弃float
 9. before/after伪类
@@ -17,4 +17,3 @@
 15. lesshat
 16. pointer-events
 17. background-size
-18. canvas
