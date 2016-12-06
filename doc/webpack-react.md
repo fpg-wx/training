@@ -32,7 +32,7 @@
 
 - [点击访问](https://facebook.github.io/react/tutorial/tutorial.html)
 
-### 实现前端框架的几个小案例（1d）
+### 实现前端框架的几个小案例（2.5d）
 
 - [案例1](http://www.gbtags.com/gb/demoviewer/10407/a6b8d138-4f9f-4b2e-812e-416ece45b95f/example1.html.htm)
 - [案例2](http://www.gbtags.com/gb/demoviewer/10407/a6b8d138-4f9f-4b2e-812e-416ece45b95f/example2.html.htm)
