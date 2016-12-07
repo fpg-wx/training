@@ -2,6 +2,8 @@
 
 ## webpack（1d）
 
+> 强烈建议看官方原版教程，[中文教程](http://zhaoda.net/webpack-handbook/index.html)只做参考用
+
 - 环境配置
 - 模块引用
 - 编译es6
@@ -9,8 +11,9 @@
 - 编译sass并注入
 
 
-
 ## react（3d）
+
+> 强烈建议看官方原版教程，[中文教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)只做参考用（版本滞后，慎看）
 
 - 数据驱动的概念
 - 环境配置
