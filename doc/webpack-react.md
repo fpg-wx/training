@@ -71,6 +71,39 @@
 
 - [预览地址](http://www.clientapprove.com/preview/R29_holiday_gift_curator/)
 
+- 功能说明
+
+  - 总共5种person类型：
+    - mom
+    -  dad
+    -  s.o.
+    -  bff 
+    - work spouse
+  - 总共6种trait类型
+    - chill
+    - chic aesthete
+    - emo
+    - type a
+    - early adopter
+    - fancy
+  - 数据
+    - 来源：[点击访问](https://cdn.contentful.com/spaces/gju6m3ezaxar/entries?content_type=jsonFull&include=10&limit=200&access_token=e887c7cd3298dd5e14cce7cd22523670abea9de380aef548efcbcb4b3a612ee9)
+    - 节点：`items[0].fields.jsonFull.feed.entry`
+    - 相关属性：（值在$t节点）
+      - 所属person：`gsx$person`
+      - 所属trait：`gsx$trait`
+      - 链出地址：`gsx$clickouturl`
+      - 描述文字：`gsx$description70charactersmax`
+      - 封面图片：`gsx$image`
+      - 产品名称：`gsx$itemname`
+      - 产品价格：`gsx$price`
+      - 产品类型：`gsx$type`
+  - 每次可以选择1个person+3个trait，之后展示出对应的产品列表
+  - 点击person页面第6个按钮，随机选择1个person+3个trait组合，并直接展示产品列表
+  - 在产品列表可以单独替换person，或单独替换trait，并展示产品列表
+  - 也可以直接重新选择person和trait，并展示产品列表
+  - 未选择person，或未选满3个trait，则无法继续下一步操作
+
 - 要点：
 
   - 根据用户不同的选项组合，显示不同的结果页面
@@ -80,5 +113,6 @@
   - 不需要地址栏实时刷新
   - 不需要路由
   - 专注功能就行，排版看得过去就可以
+  - 不需要sponsored产品
 
   ​
