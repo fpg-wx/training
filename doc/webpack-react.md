@@ -65,7 +65,7 @@
 
 - [功能参考](http://demos.clientapprove.com/NYT_tiffany/)
 
-### 项目考察（5d）
+### 项目考察（8d）
 
 - 使用react实现从前的一个项目
 
