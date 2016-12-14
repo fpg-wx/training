@@ -77,9 +77,9 @@
 
   - 总共5种person类型：
     - mom
-    -  dad
-    -  s.o.
-    -  bff 
+    - dad
+    - s.o.
+    - bff 
     - work spouse
   - 总共6种trait类型
     - chill
@@ -116,5 +116,6 @@
   - 不需要路由
   - 专注功能就行，排版看得过去就可以
   - 不需要sponsored产品
+  - 只需要chrome正常工作就行
 
   ​
