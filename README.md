@@ -16,10 +16,12 @@
 - [练习项目](https://github.com/fpg-wx/training/blob/master/doc/exercise.md)
 - [简单项目（考察新人用）](https://github.com/fpg-wx/training/blob/master/doc/simple-exercise.md)
 - [开放项目](https://github.com/fpg-wx/training/blob/master/doc/creative.md)
+- [MVVM](https://github.com/fpg-wx/training/blob/master/doc/mvvm-exercise.md)
 
 
 
 
 ## 扩展
 
-- [Webpack＋React](https://github.com/fpg-wx/training/blob/master/doc/webpack-react.md)
+- [Webpack](https://github.com/fpg-wx/training/blob/master/doc/webpack.md)
+- [React](https://github.com/fpg-wx/training/blob/master/doc/react.md)

@@ -28,7 +28,7 @@
 
 - 使用react实现从前的一个项目
 - [预览地址](http://www.clientapprove.com/preview/R29_holiday_gift_curator/)
-- [素材下载](https://github.com/fpg-wx/training/raw/master/assets/react-r29.zip)
+- [素材下载](https://github.com/fpg-wx/training/raw/master/assets/mvvm-gift.zip)
 - 功能说明
   - 总共5种person类型：
     - mom
