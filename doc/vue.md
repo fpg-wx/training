@@ -29,7 +29,6 @@
 
 ## 工程化
 
-- 
 - vue-router（2.0）
 - vue-resource
 - vuex（2.0）
