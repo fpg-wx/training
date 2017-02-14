@@ -24,5 +24,7 @@
 ## 扩展
 
 - [Webpack](https://github.com/fpg-wx/training/blob/master/doc/webpack.md)
+- [ES6](https://github.com/fpg-wx/training/blob/master/doc/es6.md)
 - [React](https://github.com/fpg-wx/training/blob/master/doc/react.md)
 - [Vue](https://github.com/fpg-wx/training/blob/master/doc/vue.md)
+
