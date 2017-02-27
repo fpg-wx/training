@@ -29,3 +29,10 @@
 ## js
 
 [查看详情](https://github.com/JoshuaYang/website-template/blob/master/.eslintrc)
+
+
+
+## 动画
+
+1. 优先使用css动画
+2. 优先使用transform属性
