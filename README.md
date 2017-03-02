@@ -1,5 +1,5 @@
 # training
-## 基础
+## 基础 
 
 - [准备工作](https://github.com/fpg-wx/training/blob/master/doc/prepare.md)
 - [编码规范](https://github.com/fpg-wx/training/blob/master/doc/coding-specification.md)
