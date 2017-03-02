@@ -41,7 +41,9 @@
 
 ## js
 
-[查看详情](https://github.com/JoshuaYang/website-template/blob/master/.eslintrc)
+[风格指南](https://github.com/alivebao/clean-code-js/blob/master/README.md)
+
+正式项目中将使用ESLint来规范代码，[查看具体规则](https://github.com/JoshuaYang/website-template/blob/master/.eslintrc)
 
 
 
