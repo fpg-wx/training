@@ -14,6 +14,8 @@
    3. 模拟移动设备
    4. 禁用浏览器缓存
 10. VPN
+   1. 多用google，少用百度
+   2. 适应英文环境
 11. 编辑器（Atom / VSCode）
-   1. 插件安装（[Atom](https://github.com/fpg-wx/training/blob/master/doc/atom-plugins.md)）
+12. 插件安装（[Atom](https://github.com/fpg-wx/training/blob/master/doc/atom-plugins.md)）
 
