@@ -1,1 +1,35 @@
 # Atom Plugins
+
+- Sublime-Style-Column-Selection
+- atom-beautify
+- atom-css-comb
+- atom-ternjs
+- auto-update-packages
+- autoclose-html
+- autocomplete-paths
+- code-peek
+- docblockr
+- emmet
+- file-icons
+- highlight-line
+- highlight-selected
+- hyperclick
+- js-hyperclick
+- language-vue
+- linter
+- linter-eslint
+- linter-jsonlint
+- minimap
+- minimap-codeglance
+- minimap-find-and-replace
+- minimap-highlight-selected
+- pigments
+- platformio-ide-terminal
+- pretty-json
+- react
+- regex-railroad-diagram
+- run-in-browser
+- sync-settings
+  - 需要自己配置
+- tree-view-copy-relative-path
+- valign

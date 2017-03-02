@@ -15,5 +15,5 @@
    4. 禁用浏览器缓存
 10. VPN
 11. 编辑器（Atom / VSCode）
-   1. 插件安装（Atom）
+   1. 插件安装（[Atom](https://github.com/fpg-wx/training/blob/master/doc/atom-plugins.md)）
 
