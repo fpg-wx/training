@@ -8,7 +8,7 @@
 - [jQuery](https://github.com/fpg-wx/training/blob/master/doc/jquery.md)
 - [Tween](https://github.com/fpg-wx/training/blob/master/doc/tween.md)
 - [Git](https://github.com/fpg-wx/training/blob/master/doc/git.md)
-- Node.js
+- [Node.js](https://github.com/fpg-wx/training/blob/master/doc/nodejs.md)
 
 
 
