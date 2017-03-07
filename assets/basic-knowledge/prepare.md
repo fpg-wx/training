@@ -15,8 +15,9 @@
    4. 禁用浏览器缓存
 10. VPN
 11. 多用google，少用百度
-   2. 适应英文环境
+    1. 适应英文环境
 12. 编辑器（Atom / VSCode）
-13. 插件安装（[Atom](https://github.com/fpg-wx/training/blob/master/doc/atom-plugins.md)）
+13. 插件安装（[Atom](/assets/basic-knowledge/atom-plugins.md)）
+
 
 
