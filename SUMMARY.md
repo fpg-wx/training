@@ -17,9 +17,9 @@
   * [Vue](advanced-knowledge/vue.md)
 * [项目](project/README.md)
   * [练习项目](project/exercise.md)
-  * [简单项目](.md/.md)
-  * 开放项目
-  * MVVM
+  * [简单项目](project/simple.md)
+  * [开放项目](project/creative.md)
+  * [MVVM](project/mvvm.md)
 * [插件](plugin/README.md)
   * [Atom](plugin/atom.md)
 
