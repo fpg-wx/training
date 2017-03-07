@@ -15,8 +15,8 @@
   * [ES6](advanced-knowledge/es6.md)
   * [React](advanced-knowledge/react.md)
   * [Vue](advanced-knowledge/vue.md)
-* [项目](.md)
-  * [练习项目](.md/.md)
+* [项目](project/README.md)
+  * [练习项目](project/exercise.md)
   * [简单项目](.md/.md)
   * 开放项目
   * MVVM
