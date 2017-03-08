@@ -12,6 +12,6 @@
    - shadowsocks
    - vpn
 5. 多用google，少用百度
-   - 适应英文环境
+   - 英文搜索通常是最有效的解决方案
 6. 编辑器（Atom / VSCode）
    - 插件安装（[Atom](/plugin/atom.md)）
