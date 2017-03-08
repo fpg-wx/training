@@ -1,9 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
+* [准备工作](prepare/README.md)
+  * [入职](prepare/entry.md)
+  * [开发环境](prepare/environment.md)
+  * [服务意识](prepare/service.md)
+  * [规范](prepare/specification.md)
 * [基础知识](basic-knowledge/README.md)
-  * [准备工作](basic-knowledge/prepare.md)
-  * [规范](basic-knowledge/specification.md)
   * [HTML+CSS](basic-knowledge/html-css.md)
   * [Javascript](basic-knowledge/javascript.md)
   * [jQuery](basic-knowledge/jquery.md)
