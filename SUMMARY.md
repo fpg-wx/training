@@ -13,6 +13,7 @@
   * [jQuery](basic-knowledge/jquery.md)
   * [Tween](basic-knowledge/tween.md)
   * [Node.js](basic-knowledge/nodejs.md)
+  * [Design](basic-knowledge/design.md)
 * [扩展知识](advanced-knowledge/README.md)
   * [Webpack](advanced-knowledge/webpack.md)
   * [ES6](advanced-knowledge/es6.md)
