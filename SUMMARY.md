@@ -27,4 +27,5 @@
   * [MVVM](exercise/mvvm.md)
 * [插件](plugin/README.md)
   * [Atom](plugin/atom.md)
+  * [VSCode](plugin/vscode.md)
 
